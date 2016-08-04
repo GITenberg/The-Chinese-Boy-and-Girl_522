@@ -1,0 +1,25 @@
+_repo: The-Chinese-Boy-and-Girl_522
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Headland, Isaac Taylor
+    birthdate: 1859
+    deathdate: 1942
+    gutenberg_agent_id: '273'
+    url: http://www.gutenberg.org/2009/agents/273
+description: ''
+gutenberg_issued: '1996-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '522'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Folklore -- China'
+- !lcsh 'Children -- China'
+- GITenberg
+title: The Chinese Boy and Girl
+url: http://www.gutenberg.org/ebooks/522
