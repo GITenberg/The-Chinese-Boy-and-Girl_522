@@ -1,5 +1,8 @@
 _repo: The-Chinese-Boy-and-Girl_522
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Headland, Isaac Taylor
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '273'
     url: http://www.gutenberg.org/2009/agents/273
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/522#The-Chinese-Boy-and-Girl
 gutenberg_issued: '1996-05-01'
 gutenberg_type: Text
 identifiers:
